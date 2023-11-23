@@ -1,0 +1,1 @@
+build//uLabel/main.c.o build//uLabel/leds.c.o build//uLabel/adc_read.c.o build//uLabel/spim_functions.c.o build//uLabel/lsm6ds3.c.o build//uLabel/quat_math.c.o build//uLabel/persistent_storage.c.o build//uLabel/urf_radio.c.o build//uLabel/urf_timer.c.o build//uLabel/urf_star_protocol.c.o build//uLabel/gcc_startup_nrf52810.S.o build//uLabel/system_nrf52810.c.o -lc -lnosys -lm
